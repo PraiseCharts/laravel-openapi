@@ -19,11 +19,11 @@
         }
     ],
     "require": {
-        "php": "^8.1",
+        "php": "^8.2",
         "ext-json": "*",
-        "doctrine/dbal": "^2.6|^3.0",
+        "doctrine/dbal": "^2.6|^3.0|^4.3",
         "goldspecdigital/oooas": "^2.7.1",
-        "laravel/framework": "5.8.*|^6.0|^7.0|^8.0|^9.0|^10.0",
+        "laravel/framework": "5.8.*|^6.0|^7.0|^8.0|^9.0|^10.0|^11.0",
         "friendsofphp/php-cs-fixer": "^3.8.0",
         "roave/security-advisories": "dev-latest",
         "vimeo/psalm": "^5.8.0"
